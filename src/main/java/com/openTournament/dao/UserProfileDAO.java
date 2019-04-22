@@ -1,0 +1,15 @@
+package com.openTournament.dao;
+
+import java.util.List;
+
+import com.openTournament.model.UserProfileVO;
+
+public interface UserProfileDAO {
+	public void insertUserProfile(UserProfileVO userProfileVO);
+	public List<UserProfileVO> getUserProfile();
+	public List<UserProfileVO> getUserProfileByReg(UserProfileVO userProfileVO1);
+	public List<UserProfileVO> getUserProfileById(UserProfileVO userProfileVO2);
+	public List<UserProfileVO> noEventsSelected();
+	public List<UserProfileVO> pendingPayers();
+	public List<UserProfileVO> getUserProfileByQR(UserProfileVO userProfileVO3);
+}

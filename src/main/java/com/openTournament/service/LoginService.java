@@ -1,0 +1,45 @@
+package com.openTournament.service;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import javax.transaction.Transactional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.openTournament.dao.LoginDAO;
+import com.openTournament.model.LoginVO;
+
+@Service
+public class LoginService {
+	@Autowired
+	LoginDAO loginDAO;
+	
+	@Transactional
+	public void insertToLogin(LoginVO loginVO){
+		this.loginDAO.insertToLogin(loginVO);
+	}
+	
+	@Transactional
+	public List<LoginVO> getUser(LoginVO loginVO1){
+		List<LoginVO> getUser=new ArrayList<LoginVO>();
+		getUser=this.loginDAO.getUser(loginVO1);
+		return getUser;
+	}
+	
+	@Transactional
+	public void verifyUser(LoginVO loginVO2){
+		this.loginDAO.verifyUser(loginVO2);
+	}
+	
+	@Transactional
+	public void changeEnabled(LoginVO loginVO3){
+		this.loginDAO.changeEnabled(loginVO3);
+	}
+	
+	@Transactional
+	public void resetPassword(LoginVO loginVO4){
+		this.loginDAO.resetPassword(loginVO4);
+	}
+}
