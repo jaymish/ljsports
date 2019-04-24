@@ -84,7 +84,7 @@
 												style="width: 100%">
 												<thead>
 													<tr>
-														<th colspan="10">Information</th>
+														<th colspan="14">Information</th>
 													</tr>
 													<tr>
 														<th>Event</th>
@@ -96,6 +96,10 @@
 														<th>Member 5</th>
 														<th>Member 6</th>
 														<th>Member 7</th>
+														<th>Member 8</th>
+														<th>Member 9</th>
+														<th>Member 10</th>
+														<th>Member 11</th>
 														<th>Contact</th>
 													</tr>
 												</thead>
@@ -111,6 +115,10 @@
 															<td>${i.teamMember5}</td>
 															<td>${i.teamMember6}</td>
 															<td>${i.teamMember7}</td>
+															<td>${i.teamMember8}</td>
+															<td>${i.teamMember9}</td>
+															<td>${i.teamMember10}</td>
+															<td>${i.teamMember11}</td>
 															<td>${i.userProfileVO.contact}</td>
 														</tr>
 													</c:forEach>
@@ -126,6 +134,10 @@
 														<th>Member 5</th>
 														<th>Member 6</th>
 														<th>Member 7</th>
+														<th>Member 8</th>
+														<th>Member 9</th>
+														<th>Member 10</th>
+														<th>Member 11</th>
 														<th>Contact</th>
 													</tr>
 												</tfoot>
