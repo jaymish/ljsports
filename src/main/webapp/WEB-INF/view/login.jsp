@@ -37,7 +37,7 @@
 	<div class="auth-2-outer row align-items-center h-p100 m-0">
 		<div class="auth-2">
 			<div class="auth-logo font-size-30">
-				<a href="#" class="text-dark"><b>NOTION</b>2k19</a>
+				<a href="#" class="text-dark"><b>NOTION</b>2020</a>
 			</div>
 			<!-- /.login-logo -->
 			<div class="auth-body">

@@ -60,7 +60,7 @@
 					<div>
 						<h5><a href="selectEvents"><input type="button" class="btn btn-primary" value="CLICK HERE"/></a> to select events</h5>
 						<br><br>
-						<img alt="QR" src="<%=request.getContextPath() %>/qr/final.jpeg">
+						<img alt="QR" src="<%=request.getContextPath() %>/adminResources/images/final.jpeg">
 					</div>
 				</section>
 				<!-- /.content -->
