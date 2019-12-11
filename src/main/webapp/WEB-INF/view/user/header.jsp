@@ -59,9 +59,9 @@
 					</li>
 					<!-- Menu Body -->
 					<li class="user-body">
-						<a class="dropdown-item" href="editProfile">
+						<!-- <a class="dropdown-item" href="editProfile">
 							<i class="ion ion-person"></i> Edit Profile
-						</a>
+						</a> -->
 						<div class="dropdown-divider"></div>
 						<div class="p-10">
 							<a href="logout" class="btn btn-sm btn-rounded btn-success">
