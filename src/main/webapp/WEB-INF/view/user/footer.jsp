@@ -8,4 +8,4 @@
 		  </li>
 		</ul> -->
     </div>
-	  &copy; 2019 <a href="Dashboard">Notion</a>. All Rights Reserved.
+	  &copy; 2020 <a href="Dashboard">Notion</a>. All Rights Reserved.

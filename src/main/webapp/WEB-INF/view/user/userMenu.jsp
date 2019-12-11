@@ -21,7 +21,7 @@
 		</ul>
 	</li>
 	<li>
-		<a href="https://drive.google.com/open?id=1bVdn0YfMBpR7IP4a-JrZ4zVSibIHr8LD" target="_blank">
+		<a href="https://drive.google.com/file/d/19b-8rhkbwAys5fbaKYAgxA9aJair4uMf/view?usp=sharing" target="_blank">
 			<i class="ti-files"></i>
 			<span>Rules</span> 
 		</a>

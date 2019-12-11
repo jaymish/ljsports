@@ -140,7 +140,7 @@
 				</div>
 
 			</div>
-			<div><font color="red">* Check your email after submitting for account verification mail. If you don't receive email within 10 minutes contact us at notion@ljinstitutes.edu.in</font></div>
+			<!-- <div><font color="red">* Check your email after submitting for account verification mail. If you don't receive email within 10 minutes contact us at notion@ljinstitutes.edu.in</font></div> -->
 		</div>
 	</div>
 
