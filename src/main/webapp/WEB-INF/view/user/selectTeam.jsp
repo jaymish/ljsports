@@ -153,102 +153,96 @@
 													<h5>Name of Member 1 </h5>
 													<div class="controls">
 														<form:input type="text" name="member 1" path="teamMember01" class="form-control"
-														 required="required" placeholder="Enter Name(Firstname + Lastname)" />
+														 placeholder="Enter Name(Firstname + Lastname)" />
 													</div><br>
 													<h5>Date of birth</h5>
 													<div class="controls">
-														<form:input type="date" name="member 1 dob" path="teamMember01_dob" class="form-control"
-														  required="required"/>
+														<form:input type="date" name="member 1 dob" path="teamMember01_dob" class="form-control"/>
 													</div><br>
 													<h5>Phone Number</h5>
 													<div class="controls">
 														<form:input type="text" name="member 1 phonenumber" path="teamMember01_phonenumber" class="form-control"
-														  required="required" placeholder="Enter Phone Number"/>
+														  placeholder="Enter Phone Number"/>
 													</div>
 												</div>
 												<div class="form-group" id="member2" style="display:none">
 													<h5>Name of Member 2 </h5>
 													<div class="controls">
 														<form:input type="text" name="member 2" path="teamMember1" class="form-control"
-														 required="required" placeholder="Enter Name(Firstname + Lastname)" />
+														 placeholder="Enter Name(Firstname + Lastname)" />
 													</div><br>
 													<h5>Date of birth</h5>
 													<div class="controls">
-														<form:input type="date" name="member 2 dob" path="teamMember1_dob" class="form-control"
-														  required="required"/>
+														<form:input type="date" name="member 2 dob" path="teamMember1_dob" class="form-control"/>
 													</div><br>
 													<h5>Phone Number</h5>
 													<div class="controls">
 														<form:input type="text" name="member 2 phonenumber" path="teamMember1_phonenumber" class="form-control"
-														  required="required" placeholder="Enter Phone Number"/>
+														  placeholder="Enter Phone Number"/>
 													</div>
 												</div>
 												<div class="form-group" id="member3" style="display:none">
 													<h5>Name of Member 3 </h5>
 													<div class="controls">
 														<form:input type="text" name="member 3" path="teamMember2" class="form-control"
-														 required="required" placeholder="Enter Name(Firstname + Lastname)" />
+														 placeholder="Enter Name(Firstname + Lastname)" />
 													</div><br>
 													<h5>Date of birth</h5>
 													<div class="controls">
-														<form:input type="date" name="member 3 dob" path="teamMember2_dob" class="form-control"
-														  required="required"/>
+														<form:input type="date" name="member 3 dob" path="teamMember2_dob" class="form-control"/>
 													</div><br>
 													<h5>Phone Number</h5>
 													<div class="controls">
 														<form:input type="text" name="member 3 phonenumber" path="teamMember2_phonenumber" class="form-control"
-														  required="required" placeholder="Enter Phone Number"/>
+														  placeholder="Enter Phone Number"/>
 													</div>
 												</div>
 												<div class="form-group" id="member4" style="display:none">
 													<h5>Name of Member 4 </h5>
 													<div class="controls">
 														<form:input type="text" name="member 4" path="teamMember3" class="form-control"
-														 required="required" placeholder="Enter Name(Firstname + Lastname)" />
+														 placeholder="Enter Name(Firstname + Lastname)" />
 													</div><br>
 													<h5>Date of birth</h5>
 													<div class="controls">
-														<form:input type="date" name="member 4 dob" path="teamMember3_dob" class="form-control"
-														  required="required"/>
+														<form:input type="date" name="member 4 dob" path="teamMember3_dob" class="form-control"/>
 													</div><br>
 													<h5>Phone Number</h5>
 													<div class="controls">
 														<form:input type="text" name="member 4 phonenumber" path="teamMember3_phonenumber" class="form-control"
-														  required="required" placeholder="Enter Phone Number"/>
+														  placeholder="Enter Phone Number"/>
 													</div>
 												</div>
 												<div class="form-group" id="member5" style="display:none">
 													<h5>Name of Member 5 </h5>
 													<div class="controls">
 														<form:input type="text" name="member 5" path="teamMember4" class="form-control"
-														 required="required" placeholder="Enter Name(Firstname + Lastname)" />
+														 placeholder="Enter Name(Firstname + Lastname)" />
 													</div><br>
 													<h5>Date of birth</h5>
 													<div class="controls">
-														<form:input type="date" name="member 5 dob" path="teamMember4_dob" class="form-control"
-														  required="required"/>
+														<form:input type="date" name="member 5 dob" path="teamMember4_dob" class="form-control"/>
 													</div><br>
 													<h5>Phone Number</h5>
 													<div class="controls">
 														<form:input type="text" name="member 5 phonenumber" path="teamMember4_phonenumber" class="form-control"
-														  required="required" placeholder="Enter Phone Number"/>
+														  placeholder="Enter Phone Number"/>
 													</div>
 												</div>
 												<div class="form-group" id="member6" style="display:none">
 													<h5>Name of Member 6 </h5>
 													<div class="controls">
 														<form:input type="text" name="member 6" path="teamMember5" class="form-control"
-														 required="required" placeholder="Enter Name(Firstname + Lastname)" />
+														 placeholder="Enter Name(Firstname + Lastname)" />
 													</div><br>
 													<h5>Date of birth</h5>
 													<div class="controls">
-														<form:input type="date" name="member 6 dob" path="teamMember5_dob" class="form-control"
-														  required="required"/>
+														<form:input type="date" name="member 6 dob" path="teamMember5_dob" class="form-control"/>
 													</div><br>
 													<h5>Phone Number</h5>
 													<div class="controls">
 														<form:input type="text" name="member 6 phonenumber" path="teamMember5_phonenumber" class="form-control"
-														  required="required" placeholder="Enter Phone Number"/>
+														  placeholder="Enter Phone Number"/>
 													</div>
 												</div>
 												<div class="form-group" id="member7" style="display:none">

@@ -88,6 +88,7 @@
 													</tr>
 													<tr>
 														<th>Event</th>
+														<th>Team Name</th>
 														<th>Name</th>
 														<th>Member 1</th>
 														<th>Member 2</th>
@@ -107,6 +108,7 @@
 													<c:forEach items="${paymentComplete}" var="i">
 														<tr>
 															<td>${i.eventVO1.eventName}</td>
+															<td>${i.TeamName}</td>
 															<td>${i.userProfileVO.regVO.firstname} ${i.userProfileVO.regVO.lastname}</td>
 															<td>${i.teamMember1}</td>
 															<td>${i.teamMember2}</td>
@@ -126,6 +128,7 @@
 												<tfoot>
 													<tr>
 														<th>Event</th>
+														<th>Team Name</th>
 														<th>Name</th>
 														<th>Member 1</th>
 														<th>Member 2</th>
